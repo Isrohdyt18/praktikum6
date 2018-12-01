@@ -154,4 +154,4 @@ main(){
 }
 ```
 ![screenshoot2]()
-![flowchart](
+![flowchart](https://github.com/Isrohdyt18/praktikum6/blob/master/Flowchart2.2.jpg)
