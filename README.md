@@ -1,6 +1,4 @@
 # Praktikum6
-
-# Praktikum6
 ## latihan **menggunakan header untuk mengabungka fungsi void**
 **Alur Algoritma**
 1. mulai program fungsi dengan menggunakan void
