@@ -77,7 +77,7 @@ int inputData(string v)
 ```
 
 ![screenshoot](https://raw.githubusercontent.com/Amirul29/praktikum6/master/latihan1/1.png)
-![flowchart](
+![flowchart](https://github.com/Isrohdyt18/praktikum6/blob/master/Flowchart2.2.jpg)
 
 
 ##latihan2.1
