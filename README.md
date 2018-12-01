@@ -116,7 +116,7 @@ return 0;
 }
 ```
 
-![screenshoot](https://github.com/Isrohdyt18/praktikum6/blob/master/22.png)
+![screenshoot](https://github.com/Isrohdyt18/praktikum6/blob/master/21.png)
 
 ##latihan2.2
 
@@ -153,5 +153,5 @@ main(){
     return 0;
 }
 ```
-![screenshoot2]()
+![screenshoot2](https://github.com/Isrohdyt18/praktikum6/blob/master/22.png)
 ![flowchart](https://github.com/Isrohdyt18/praktikum6/blob/master/Flowchart2.2.jpg)
