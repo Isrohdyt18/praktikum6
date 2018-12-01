@@ -116,7 +116,7 @@ return 0;
 }
 ```
 
-![screenshoot]()
+![screenshoot](https://github.com/Isrohdyt18/praktikum6/blob/master/22.png)
 
 ##latihan2.2
 
