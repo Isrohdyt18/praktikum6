@@ -76,7 +76,7 @@ int inputData(string v)
 }
 ```
 
-![screenshoot](https://github.com/Isrohdyt18/praktikum6/blob/master/21.png)
+![screenshoot](https://github.com/Isrohdyt18/praktikum6/blob/master/latihan1.png)
 ![flowchart](https://github.com/Isrohdyt18/praktikum6/blob/master/Flowchart1.jpg)
 
 
